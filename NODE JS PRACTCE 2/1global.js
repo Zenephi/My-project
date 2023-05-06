@@ -1,0 +1,19 @@
+//globall object
+
+
+//console.log(global);
+
+// setTimeout(() => {
+//     console.log(`in the timout`)
+//     clearInterval(int)
+// }, 3000);
+
+// const int = setInterval(() => {
+//     console.log(`in tbe interval`)
+// }, 1000);
+
+// console.log(__dirname);
+// console.log(__filename);
+
+console.log(document.querySelector);
+
